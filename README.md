@@ -15,42 +15,11 @@
 
 - [开源项目：kotlin 扩展函数和 typealias 封装 带网络状态和解决「粘性」事件的 LiveData](https://github.com/Flywith24/WrapperLiveDataDemo)
 
-### 我的博客列表 🔥
+  
 
-- [【背上Jetpack】Jetpack 主要组件的依赖及传递关系](https://juejin.im/post/5e567ee1518825494466a938)
-
-
-- [【背上Jetpack】AdroidX下使用Activity和Fragment的变化](https://juejin.im/post/5e5a0c316fb9a07cd248d29e)
+### [我的博客列表 🔥](https://github.com/Flywith24/BlogList)
 
 
-- [【背上Jetpack之Fragment】你真的会用Fragment吗？Fragment常见问题以及androidx下Fragment的使用新姿势](https://juejin.im/post/5e5cd8686fb9a07cbc269d10)
-
-
-- [【背上Jetpack之Fragment】从源码角度看 Fragment 生命周期 AndroidX Fragment1.2.2源码分析](https://juejin.im/post/5e67523551882549003d2c4f)
-
-
-- [【背上Jetpack之OnBackPressedDispatcher】Fragment 返回栈预备篇](https://juejin.im/post/5e6bae35f265da572a0d11ad)
-
-
-- [【背上Jetpack之Fragment】从源码的角度看Fragment 返回栈 附多返回栈demo](https://juejin.im/post/5e6e50a3518825490762098b)
-
-
-- [【背上Jetpack】绝不丢失的状态 androidx SaveState ViewModel-SaveState 分析](https://juejin.im/post/5e738d12518825495d69cfb9)
-
-
-- [【背上Jetpack之ViewModel】即使您不使用MVVM也要了解ViewModel ——ViewModel 的职能边界](https://juejin.im/post/5e786d415188255e00661a4e)
-
-
-- [【背上Jetpack之Lifecycle】万物基于 Lifecycle 默默无闻大用处](https://juejin.im/post/5e8348bef265da47e02a6ce2)
-
-
-- [【背上Jetpack之LiveData】ViewModel 的左膀右臂 数据驱动真的香](https://juejin.im/post/5e834bb5f265da480d61668d)
-
-
-- [【背上Jetpack之DataBinding】数据驱动魔法师 何时迎来翻身日？](https://juejin.im/post/5e8ef0bc518825736b749705)
-
-
-- [【背上Jetpack之Navigation】想去哪就去哪，Android世界的指南针](https://juejin.im/post/5ec6a56ff265da76ce5774df)
 
 ### 我的联系方式 🌝
 
