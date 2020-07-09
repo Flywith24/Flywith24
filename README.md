@@ -6,7 +6,7 @@
 
   
 
-### [博客列表 🔥](https://github.com/Flywith24/BlogList)
+### [博文列表 🔥](https://github.com/Flywith24/BlogList)
 
 
 ### [联系方式 🌝](https://github.com/Flywith24/Flywith24/wiki/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F)
