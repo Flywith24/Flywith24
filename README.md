@@ -4,7 +4,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Flywith24&count_private=true&show_icons=true&hide=prs)
 
-![](https://github-readme-stats.flywith24.vercel.app/api/top-langs/?username=Flywith24&layout=compact)
 
 [Android Detail](https://xiaozhuanlan.com/detail) 专栏为 [重学安卓](https://xiaozhuanlan.com/kunminx) 的配套专栏
 
