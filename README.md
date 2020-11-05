@@ -2,8 +2,7 @@
 
 我是 Flywith24，欢迎来到我的 Github 主页
 
-![](https://github-readme-stats.vercel.app/api?username=Flywith24&count_private=true&show_icons=true&hide=prs&hide_title=true)
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Flywith24&count_private=true&show_icons=true&hide=prs&hide_title=true"/>
 
 [Android Detail](https://xiaozhuanlan.com/detail) 专栏为 [重学安卓](https://xiaozhuanlan.com/kunminx) 的配套专栏
 
