@@ -7,7 +7,7 @@ I'm Flywith24. Welcome to my Github. 😉
 
 
 
-### [[Android Detail ❤️](https://xiaozhuanlan.com/detail)
+### [Android Detail ❤️](https://xiaozhuanlan.com/detail)
 
 ### [Blog 🔥](https://github.com/Flywith24/BlogList)
 
