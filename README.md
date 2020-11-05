@@ -5,7 +5,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Flywith24&count_private=true&show_icons=true&hide=prs&hide_title=true"/>
 
-专注于写帮助开发者建立 Android 知识体系的文章，欢迎订阅我的专栏
+目前专注于写 Android 体系化文章，欢迎订阅我的专栏
 
 
 ### [Android Detail ❤️](https://xiaozhuanlan.com/detail)
