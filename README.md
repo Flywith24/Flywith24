@@ -1,13 +1,15 @@
-### Hey 👋
+### 很高兴见到你 👋
 
 
-I'm Flywith24. Welcome to my Github. 😉
+我是 Flywith24，欢迎来到我的 Github 主页 😉
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Flywith24&count_private=true&show_icons=true&hide=prs&hide_title=true"/>
 
+专注于写帮助开发者建立 Android 知识体系的文章，欢迎订阅我的专栏
 
 
 ### [Android Detail ❤️](https://xiaozhuanlan.com/detail)
+
 
 ### [Blog 🔥](https://github.com/Flywith24/BlogList)
 
