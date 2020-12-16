@@ -17,12 +17,6 @@
 
 [![CSDN](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216150204.png)](https://blog.csdn.net/fly_with_24)
 
+![微信](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216152154.png)
 
-### [Android Detail ❤️](https://xiaozhuanlan.com/detail)
-
-
-### [Blog 🔥](https://github.com/Flywith24/BlogList)
-
-
-### [Contact 🤙](https://github.com/Flywith24/Flywith24/wiki/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F)
 
