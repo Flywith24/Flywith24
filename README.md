@@ -7,6 +7,9 @@
 
 目前专注于写 Android 体系化文章，欢迎订阅我的专栏
 
+[![语雀](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216140802.png)](https://www.yuque.com/flywith24)
+[![掘金](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216141123.png)](https://juejin.cn/user/219558054476792/posts)
+[![CSDN](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216141239.png)](https://blog.csdn.net/fly_with_24)
 
 ### [Android Detail ❤️](https://xiaozhuanlan.com/detail)
 
