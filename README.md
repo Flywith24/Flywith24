@@ -8,9 +8,13 @@
 目前专注于写 Android 体系化文章，欢迎订阅我的专栏
 
 [![自建博客](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216151326.png)](https://flywith24.gitee.io)
+
 [![小专栏](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216150338.png)](https://xiaozhuanlan.com/detail)
+
 [![语雀](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216150234.png)](https://www.yuque.com/flywith24)
+
 [![掘金](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216150413.png)](https://juejin.cn/user/219558054476792/posts)
+
 [![CSDN](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216150204.png)](https://blog.csdn.net/fly_with_24)
 
 
