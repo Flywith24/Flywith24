@@ -9,9 +9,9 @@
 
 [![自建博客](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216151326.png)](https://flywith24.gitee.io)
 
-[![小专栏](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216150338.png)](https://xiaozhuanlan.com/detail)
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Flywith24&count_private=true&show_icons=true&hide=prs&hide_title=true"/>
+
+[![小专栏](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216150338.png)](https://xiaozhuanlan.com/detail)
 
 [![语雀](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216150234.png)](https://www.yuque.com/flywith24)
 
