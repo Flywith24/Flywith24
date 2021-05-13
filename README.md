@@ -10,7 +10,7 @@
 专注于写 Android 体系化文章，欢迎订阅我的专栏
 
 
-[![小专栏](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216150338.png)](https://xiaozhuanlan.com/detail)&emsp;&emsp;[![掘金](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216150413.png)](https://juejin.cn/user/219558054476792/posts)&emsp;&emsp;[![自建博客](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216151326.png)](https://flywith24.gitee.io)&emsp;&emsp;[![语雀](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216150234.png)](https://www.yuque.com/flywith24)&emsp;&emsp;[![CSDN](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216150204.png)](https://blog.csdn.net/fly_with_24)&emsp;&emsp;[![Bilibili](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201231135933.png)](https://space.bilibili.com/354140435)
+[![小专栏](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216150338.png)](https://xiaozhuanlan.com/detail)&emsp;&emsp;[![掘金](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216150413.png)](https://juejin.cn/user/219558054476792/columns)&emsp;&emsp;[![自建博客](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216151326.png)](https://flywith24.gitee.io)&emsp;&emsp;[![语雀](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216150234.png)](https://www.yuque.com/flywith24)&emsp;&emsp;[![CSDN](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216150204.png)](https://blog.csdn.net/fly_with_24)&emsp;&emsp;[![Bilibili](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201231135933.png)](https://space.bilibili.com/354140435)
 
 <br/>
 
