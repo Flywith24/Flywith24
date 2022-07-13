@@ -3,7 +3,11 @@
 
 我是 Flywith24，欢迎来到我的 Github 主页 😉
 
-
+- 📱 Android Developer
+- 🍚 铁厂干饭人
+- 📷 业余 vlogger
+- 🏀 篮球爱好者
+- 🚣🏻 划船器入门选手
 
 
 专注于写 Android 体系化文章，欢迎订阅我的专栏
