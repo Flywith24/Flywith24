@@ -12,6 +12,6 @@
 
 
 ### 最近文章
-<img src= "https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin?id=219558054476792&limit=5" width="49%" herf="https://juejin.cn/user/219558054476792/posts"><img width="2%"/><img src= "https://github-readme-juejin-recent-article-flywith24.vercel.app/xiaozhuanlan?id=detail&limit=5" width="49%" herf="https://xiaozhuanlan.com/detail">
+<img src= "https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin?id=219558054476792&limit=5" width="48%" herf="https://juejin.cn/user/219558054476792/posts"><img width="4%"/><img src= "https://github-readme-juejin-recent-article-flywith24.vercel.app/xiaozhuanlan?id=detail&limit=5" width="48%" herf="https://xiaozhuanlan.com/detail">
 
 <img src= "https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216152154.png" width="50%"><img src= "https://github-readme-stats.vercel.app/api?username=Flywith24&count_private=true&show_icons=true&hide=prs&hide_title=true" width="50%">
