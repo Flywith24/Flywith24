@@ -19,6 +19,13 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Flywith24&count_private=true&show_icons=true&hide=prs&hide_title=true")
 
-![微信](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216152154.png)
+### 最近文章
+<a href="https://juejin.cn/user/219558054476792/posts/">
+<img src="https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/0"/>
+<img src="https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1"/>
+</a>
 
+<br/>
+
+![微信](https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216152154.png)
 
