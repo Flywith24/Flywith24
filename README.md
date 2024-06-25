@@ -1,10 +1,9 @@
 ### 很高兴见到你 👋  
 我是 Flywith24，欢迎来到我的 Github 主页 😉
 
-|  📱 Android Developer    |    🍚 红薯干饭人   |    📷 业余 vlogger   |   🏀 篮球爱好者   |  🚣🏻 划船器入门选手    |
+|  📱 Android Developer    |    🍚 懂车干饭人   |    📷 业余 vlogger   |   🏀 篮球爱好者   |  🚣🏻 划船器入门选手    |
 | ---- | ---- | ---- | ---- | ---- |
 
-<img src= "https://cdn.jsdelivr.net/gh/Flywith24/Album@master/img/202302262215640.png" width="50%">
 
 
 ### 目前专注于写 Android 体系化文章，欢迎订阅我的专栏
